@@ -10,3 +10,8 @@ Python, requests, BeautifulSoup, openpyxl
 pip install requests beautifulsoup4 openpyxl
 python scraper.py
 python to_excel.py
+
+## Wikipedia Table Scraper
+Exports the first table of any Wikipedia page to Excel.
+
+python table_scraper.py <wikipedia-url>
